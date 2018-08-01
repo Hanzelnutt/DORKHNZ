@@ -155,7 +155,7 @@ echo
 # Usage
 usage(){
 	echo
-	echo "USAGE: ./dorkhnz " | grep --color -E 'USAGE||dorkhnz'
+	echo "USAGE: ./bingoo " | grep --color -E 'USAGE||bingoo'
 	echo "Then just follow prompts..." | grep --color 'Then just follow prompts'
 	echo
 }
