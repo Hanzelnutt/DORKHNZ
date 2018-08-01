@@ -1,9 +1,4 @@
 
-# )  |  _ \ / _ \|  _ \| |/ / | | | \ | |__  / (
-# (  | | | | | | | |_) | ' /| |_| |  \| | / /   )
-#  ) | |_| | |_| |  _ <| . \|  _  | |\  |/ /_  (
-# (  |____/ \___/|_| \_\_|\_\_| |_|_| \_/____|  )
-#  )~~~~~~~~~~~~~~~~~~~~~~~By Hanzelnutt~~~~~~~(
 
 DorkHNZ
  Google & Bing Dorker Scan Pokoknya Pake Aja Untuk Dorking Mhamank Dijamin Puas Ea
@@ -27,3 +22,7 @@ $chmod +x dorkhnz
 Langsung Gaskeun Mhank:v Ketik
 $./dorkhnz
 Atau $bash dorkhnz
+
+
+
+~~Hasil Recode Bosque Jangan Serius Ea~~
