@@ -2,6 +2,7 @@
 
 DorkHNZ
  Google & Bing Dorker Scan Pokoknya Pake Aja Untuk Dorking Mhamank Dijamin Puas
+
  Author: Hanzelnutt
  Blog: http://officialric.blogspot.com
  Email: hanzelnut@gmail.com
