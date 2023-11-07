@@ -1,50 +1,5 @@
 #!/bin/bash
 
-#Bundled version so works with BinGoo dorker tool
-
-digger_banner(){
-cat <<"EOT"
-
-                           .                             ` ..JgNMMMMMMMr
-                  ..JgNMB=`                             .gMMMMMM$`JMMF`N
-          ..`..JTWgN#"``                           ` .JMMMMMM9=!JdBM@.`d
-       .JMMMNmjMM9^                              ` .jMMMMMHbJ:.jMGMD^^`d
-       dMM5MMM#^`  `                            ` .MMMMM@W:`JgM9JMt^^^`d
-    ` .TMm??WMMN,``                            ` ?MMMMX5+.JMM5JdM3.^^^.P
-   `.JjdMYNx^TMMMm.                              ` TMMMNgM91JMNM^^`^^^J:
-  `.8dMY`  TN,JNMMp.    `  `` `......`` `  `         ?M8jgMMMMM%^^^^^JF
-  .NM"   `  .WMMMMMN,   ` .JZVT9u&7WHHNa..          .ZgMMmTMMM@`^^^^J@
- .MD`         ` 7HHMMm. .Wf??7TWNgJTJTNyHyn.   ```.MmJMM@?Tm?HP^^^`J@
-.#'              .UkMMNgWMZ`^^^^^?7NJTJWNdNX.`  .MMMMMY`    7n,`^.JY
-7`                `?NVM#d#:^^^^^^^^.?hJhdbdNp .MNMHkY`` ` `   ?hJY`
-                  ` .MMNJN,^^^:^^^:JgJNy9QmgNMMMHkY`
-                 ` dBTN#hXl^^:^^:.zdDg@CJD?74MMMF`
-   ` ..... ` ``    `h,?h.dr`:^^...?5JMRGs    `J#L.` `
-    .MMMMMMMNNggJJJJgMm,^?HmJJg?7TWjMMkZN+   .W@dnna,.`
-    .#.TMNMMMMMMMMMMMMMMNaJ.?7Y:^^?JMMMMNHgMN.XjMMMMMm.` `
-    .#Jm,?WMMMMMMMMMMMMMMMMMNeWae.^^.^^?HmJT9YWMMMMMMMMNgJ..  `
-   ` FJN,_`L?TWMMMMNMMMMMMMMMNNdMH&^^^^^dMNgMNMtMMMMMMMMNJL`-. `
-    .U<3+INTRA+FTW````````````````````````````````````````.TMm.
-   .KJHY!``````````````Digger Recon Tool v1``````````````` +`NJMx`
-     ?zJ!````````````````````````````By:Hood3dRob1n````` .G.MMuM#:
-        ?Tu..````````````````````````````````````````````..?Nd#dY
-          ` ?TYSaJ..................JJgqNNMMMMMMMMMMMMMNaJ.?WEd'
-          .MMMN, ` .MMMMM9"""""7?!` .+MMMNKMMMMMMMMMMMMMMMMN,d'
-          ,NWMMMm.MMMMMD`        .gMMMMMMMMNWMMMMMMMMMMMMMMMN%
-     `      TkMMMMMMMD`    ` `.J"TMMMMMMMMMMNkHMMMMMMMMMMMMM@
-          `` .UdMMMN,       .J=.. ..`7TMMMMMMMNXMNN,
-              `JHXMMMm.`  `.D`..........JM9=`  TkMMML.               `
-                 7kNMM# ` .D........JH9^        `WWMMF
-                  .T9=   .E,...`..M#^           ``?"!`
-                         d4g`. .M#!
-                         dJMn:JMMm..    `                            `
-     `                   `bMDdMMMMMMMM@!
-                          vxJMMMMMMM" `
-                        ` `?MMMMMMMm.
-                             ?TWMMMMMe `                             `
-EOT
-}
-
 #ALEXA CHECK - alexa.com
 alexa_check(){
 	echo
